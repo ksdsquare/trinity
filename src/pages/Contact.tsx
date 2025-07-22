@@ -69,8 +69,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600">info@trinityshipping.com</p>
-                    <p className="text-gray-600">quotes@trinityshipping.com</p>
+                    <p className="text-gray-600">info@trinity-shipping.com</p>
+                    <p className="text-gray-600">quotes@trinity-shipping.com</p>
                   </div>
                 </div>
 
@@ -80,7 +80,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-1">Address</h3>
-                    <p className="text-gray-600">Port District, Maritime Plaza<br />Harbor City, HC 12345<br />United States</p>
+                    <p className="text-gray-600">Panniyur<br />Chennai<br />United States</p>
                   </div>
                 </div>
 
